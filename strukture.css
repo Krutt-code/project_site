@@ -8,18 +8,18 @@ header {
     padding-bottom: 2vh;
 }
 main  {
-    min-width: 72vw;
-    max-width: 72%;
+    min-width: 81vw;
+    max-width: 81%;
     height: 90vh;
     margin-left: 17vw;
     overflow: auto;
     float: left;
     padding-left: 1vw;
-    padding-right: 10vw
+    padding-right: 1vw;
 }
 nav {
-    min-width: 17vw;
-    max-width: 17%;
+    min-width: 16vw;
+    max-width: 16%;
     min-height: 90vh;
     float: left;
     position:absolute;
@@ -53,8 +53,6 @@ p {
         max-width: 100%;
         margin-left: 0;
         height: auto;
-        padding-right: 1vw
-
     }
     .bias {
         margin: auto;

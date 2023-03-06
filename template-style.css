@@ -4,7 +4,7 @@
     font-family: 'Open Sans', sans-serif;
 }
 .link {
-    color: #125fee;
+    color: #407efa;
 }
 a {
     color: rgb(165, 207, 193);
@@ -31,4 +31,24 @@ nav {
 }
 .under_the_title {
     color: rgb(204, 244, 244);
+}
+.link_not_decoration {
+    text-decoration: none;
+}
+button {
+    background-color: rgb(87, 87, 226);
+    color: #00ffea;
+    padding: 12px;
+    text-align: center;
+    border: none;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 6px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+button:hover {
+    background-color: rgb(54, 68, 88);
+    color: white;
 }
